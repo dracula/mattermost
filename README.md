@@ -19,13 +19,13 @@ All instructions can be found at [draculatheme.com/mattermost](https://draculath
 If you use **Mattermost v3**, use the following values:
 
 ```
-#282a36,#f8f8f2,#44475a,#f8f8f2,#f8f8f2,#6272a4,#8be9fd,#8be9fd,#50fa7b,#ffb86c,#ff5555,#f8f8f2,#282a36,#f8f8f2,#ffb86c,#282a36,#8be9fd,#ffb86c,#ff79c6,#282a36,monokai
+#282a36,#f8f8f2,#44475a,#f8f8f2,#f8f8f2,#6272a4,#8be9fd,#8be9fd,#50fa7b,#ffb86c,#ff79c6,#282a36,#282a36,#f8f8f2,#ffb86c,#282a36,#8be9fd,#ffb86c,#ff79c6,#282a36,monokai
 ```
 
 If you use **Mattermost v4**, use the following values:
 
 ```
-{"sidebarBg":"#282a36","sidebarText":"#f8f8f2","sidebarUnreadText":"#f8f8f2","sidebarTextHoverBg":"#6272a4","sidebarTextActiveBorder":"#8be9fd","sidebarTextActiveColor":"#8be9fd","sidebarHeaderBg":"#44475a","sidebarHeaderTextColor":"#f8f8f2","onlineIndicator":"#50fa7b","awayIndicator":"#ffb86c","mentionBj":"#ff5555","mentionColor":"#f8f8f2","centerChannelBg":"#282a36","centerChannelColor":"#f8f8f2","newMessageSeparator":"#ffb86c","linkColor":"#8be9fd","buttonBg":"#ff79c6","buttonColor":"#282a36","errorTextColor":"#ff5555","mentionHighlightBg":"#282a36","mentionHighlightLink":"#ffb86c","codeTheme":"monokai"}
+{"sidebarBg":"#282a36","sidebarText":"#f8f8f2","sidebarUnreadText":"#f8f8f2","sidebarTextHoverBg":"#6272a4","sidebarTextActiveBorder":"#8be9fd","sidebarTextActiveColor":"#8be9fd","sidebarHeaderBg":"#44475a","sidebarHeaderTextColor":"#f8f8f2","onlineIndicator":"#50fa7b","awayIndicator":"#ffb86c","mentionBj":"#ff79c6","mentionColor":"#282a36","centerChannelBg":"#282a36","centerChannelColor":"#f8f8f2","newMessageSeparator":"#ffb86c","linkColor":"#8be9fd","buttonBg":"#ff79c6","buttonColor":"#282a36","errorTextColor":"#ff5555","mentionHighlightBg":"#282a36","mentionHighlightLink":"#ffb86c","codeTheme":"monokai"}
 ```
 
 ## Team
